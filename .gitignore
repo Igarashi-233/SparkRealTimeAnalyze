@@ -1,0 +1,7 @@
+# Project exclude paths
+/ADStat/target/
+/areaStat/target/
+/commons/target/
+/mock/target/
+/pageStat/target/
+/session/target/
